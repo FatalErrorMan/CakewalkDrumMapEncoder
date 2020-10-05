@@ -26,3 +26,20 @@ D&D するだけ！
 [バイナリファイルへのリンク - Google Drive](https://drive.google.com/drive/folders/1M3P6rQUspiwBQSgvzGUWh9uZv06hCxFJ?usp=sharing)
 
 上のリンクからビルド済みのバイナリをダウンロード、またはソースを Visual Studio でビルドしてください。
+
+
+## Requirement
+
+.Net Framework 4.x のランタイムが必要になりますが、最近の普通の Windows PC なら入ってますね？
+
+
+## Author
+
+FatalErrorMan  
+E-mail fatalerrorman@gmail.com  
+Twitter [@man_fatal](https://twitter.com/man_fatal)
+
+
+## Licence
+
+"CakewalkDrumMapEncoder" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
