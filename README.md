@@ -20,6 +20,8 @@ Cakewalk by BandLab に付属のドラムマップマネージャは使いづら
 
 D&D するだけ！
 
+※詳しい使い方は付属の readme.txt を読んでください。
+
 
 ## Install
 
