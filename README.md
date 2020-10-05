@@ -17,9 +17,12 @@ Cakewalk by BandLab に付属のドラムマップマネージャは使いづら
 
 ![使い方](https://drive.google.com/uc?export=view&id=1Ah6bbuY5A5eCAGYmvaGz6QxATw4kWeT2)
 
+
 D&D するだけ！
 
 
 ## Install
 
-[バイナリファイルへのリンク - Google Drive]()
+[バイナリファイルへのリンク - Google Drive](https://drive.google.com/drive/folders/1M3P6rQUspiwBQSgvzGUWh9uZv06hCxFJ?usp=sharing)
+
+上のリンクからビルド済みのバイナリをダウンロード、またはソースを Visual Studio でビルドしてください。
