@@ -25,7 +25,7 @@ D&D するだけ！
 
 [バイナリファイルへのリンク - Google Drive](https://drive.google.com/drive/folders/1M3P6rQUspiwBQSgvzGUWh9uZv06hCxFJ?usp=sharing)
 
-上のリンクからビルド済みのバイナリをダウンロード、またはソースを Visual Studio でビルドしてください。
+上のリンクからビルド済みのバイナリをフォルダごとダウンロード、またはソースを Visual Studio でビルドしてください。
 
 
 ## Requirement
@@ -42,4 +42,4 @@ Twitter [@man_fatal](https://twitter.com/man_fatal)
 
 ## Licence
 
-"CakewalkDrumMapEncoder" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+"CakewalkDrumMapEncoder" is under [MIT License](https://en.wikipedia.org/wiki/MIT_License).
