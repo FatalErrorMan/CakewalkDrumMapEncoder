@@ -15,7 +15,7 @@ Cakewalk by BandLab に付属のドラムマップマネージャは使いづら
 
 ## Usage
 
-![使い方](https://drive.google.com/uc?export=view&id=1Ah6bbuY5A5eCAGYmvaGz6QxATw4kWeT2)
+![使い方](https://github.com/FatalErrorMan/StocksForReadme.md/blob/main/CakewalkDrumMapEncoder/usage1.jpg)
 
 
 D&D するだけ！
