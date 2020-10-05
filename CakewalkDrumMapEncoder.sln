@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CakewalkDrumMapEncoder", "CakewalkDrumMapEncoder\CakewalkDrumMapEncoder.csproj", "{DB22E9D0-E16F-4B4A-A0C7-65E307F3866E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB22E9D0-E16F-4B4A-A0C7-65E307F3866E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB22E9D0-E16F-4B4A-A0C7-65E307F3866E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB22E9D0-E16F-4B4A-A0C7-65E307F3866E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB22E9D0-E16F-4B4A-A0C7-65E307F3866E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3BF750C-67BA-45D1-90F1-E3D5230D12C2}
+	EndGlobalSection
+EndGlobal
