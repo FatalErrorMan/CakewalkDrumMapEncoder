@@ -14,4 +14,12 @@ Cakewalk by BandLab に付属のドラムマップマネージャは使いづら
 
 
 ## Usage
+
 ![使い方](https://drive.google.com/uc?export=view&id=1Ah6bbuY5A5eCAGYmvaGz6QxATw4kWeT2)
+
+D&D するだけ！
+
+
+## Install
+
+[バイナリファイルへのリンク - Google Drive]()
